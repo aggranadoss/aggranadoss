@@ -1,4 +1,4 @@
-### Hi..!!! I'm Angel 
+## Hi..!!! I'm Angel 
 
 - 🌱 I’m currently learning machine code in Z80 (CPCtelera)
 
@@ -30,7 +30,7 @@
 
 </div>
 
-
+## Contact 
 
 <div style="display: inline_block"><br>
      <img align="center" alt="Angel-C" height="80" width="90" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/social/linkedin.svg">
