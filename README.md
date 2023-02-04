@@ -33,9 +33,9 @@
 ## Contact 
 
 <div style="display: inline_block"><br>
-     <img align="center" alt="Angel-C" height="80" width="90" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/social/linkedin.svg">
-      <img align="center" alt="Angel-CPP" height="80" width="90" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/social/vk.svg">
-      <img align="center" alt="Angel-CPP" height="80" width="90" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/social/gmail.svg">
+    <a href="https://www.linkedin.com/in/angel-gustavo-granados-sumalave-012039244/" target="_blank"><img align="center" alt="Angel-C" height="90" width="100" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/social/linkedin.svg">
+     <a href="https://vk.com/id709081919" target="_blank"><img align="center" alt="Angel-CPP" height="90" width="100" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/social/vk.svg">
+      <a href="mailto:angelgustavo.gs@gmail.com" target="_blank"><img align="center" alt="Angel-CPP" height="90" width="100" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/social/gmail.svg">
 </div>
 
 
