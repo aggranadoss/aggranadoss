@@ -8,6 +8,9 @@
   <img align="center" alt="Angel-C" height="80" width="90" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/c_language.svg">
   
   <img align="center" alt="Angel-CPP" height="80" width="90" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/cpp.svg">
+
+  <img align="center" alt="Angel-CPP" height="80" width="90" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/bash.svg">
+  
   
   <img align="center" alt="Angel-Git" height="80" width="90" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/git.svg">
   
