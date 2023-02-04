@@ -1,5 +1,8 @@
 ## Hi..!!! I'm Angel
 
+- 🌱 I’m currently learning machine code in Z80 (CPCtelera)
+
+### ePortfolio
 
 <div style="display: inline_block"><br>
     <a href=" " target="_blank"><img align="center" alt="Angel-C" height="120" width="850" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/portfolio/eportfolio.svg">
@@ -7,7 +10,7 @@
 
 
 
-- 🌱 I’m currently learning machine code in Z80 (CPCtelera)
+
 
 ![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=aggranadoss&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aggranadoss&layout=compact&show_icons=true&theme=transparent)](https://github.com/aggranadoss/github-readme-stats)
 
