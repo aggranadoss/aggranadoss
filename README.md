@@ -5,22 +5,22 @@
 ![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=aggranadoss&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aggranadoss&layout=compact&show_icons=true&theme=transparent)](https://github.com/aggranadoss/github-readme-stats)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Angel-C" height="30" width="40" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/c_language.svg">
+  <img align="center" alt="Angel-C" height="50" width="60" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/c_language.svg">
   
-  <img align="center" alt="Angel-CPP" height="30" width="40" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/cpp.svg">
+  <img align="center" alt="Angel-CPP" height="50" width="60" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/cpp.svg">
   
-  <img align="center" alt="Angel-Git" height="30" width="40" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/git.svg">
+  <img align="center" alt="Angel-Git" height="50" width="60" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/git.svg">
   
   <img align="center" alt="Angel-MariaDB" height="30" width="40" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/mariadb.svg">
   
-  <img align="center" alt="Angel-MySQL" height="30" width="40" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/mysql.svg">
+  <img align="center" alt="Angel-MySQL" height="50" width="60" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/mysql.svg">
 
 
   <img align="center" alt="Angel-PostgreeSQL" height="30" width="40" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/postgresql.svg">
 
   <img align="center" alt="Angel-Binary" height="30" width="40" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/binary.svg">
 
-  <img align="center" alt="Angel-Opcode" height="30" width="40" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/opcode.png">
+  <img align="center" alt="Angel-Opcode" height="50" width="60" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/opcode.png">
 
   <img align="center" alt="Angel-ASM" height="30" width="40" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/asm.svg">
 
