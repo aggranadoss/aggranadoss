@@ -22,7 +22,7 @@
 
   <img align="center" alt="Angel-Opcode" height="80" width="90" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/opcode.png">
 
-  <img align="center" alt="Angel-ASM" height="80" width="90" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/asm.svg">
+  <img align="center" alt="Angel-ASM" height="80" width="90" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/asm.png">
 
  [comment]: <> (<img align="center" alt="Angel-C" height="30" width="40" src="">) 
 
