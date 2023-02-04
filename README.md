@@ -2,7 +2,7 @@
 
 
 <div style="display: inline_block"><br>
-    <a href=" " target="_blank"><img align="center" alt="Angel-C" height="220" width="250" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/portfolio/eportfolio.svg">
+    <a href=" " target="_blank"><img align="center" alt="Angel-C" height="520" width="550" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/portfolio/eportfolio.svg">
 </div>
 
 
