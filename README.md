@@ -1,4 +1,11 @@
-## Hi..!!! I'm Angel 
+## Hi..!!! I'm Angel
+
+
+<div style="display: inline_block"><br>
+    <a href=" " target="_blank"><img align="center" alt="Angel-C" height="90" width="100" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/portfolio/eportfolio.svg">
+</div>
+
+
 
 - 🌱 I’m currently learning machine code in Z80 (CPCtelera)
 
