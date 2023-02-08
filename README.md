@@ -1,5 +1,11 @@
 ## Hi..!!! I'm Angel
 
+<div style="display: inline_block"><br>
+    <a href="https://github.com/aggranadoss" target="_blank"><img align="center" alt="Angel-Fondo" height="120" width="850" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/portfolio/fondo.jpg">
+</div>
+
+
+
 - 🌱 I’m currently learning machine code in Z80 (CPCtelera)
 
 ## ePortfolio
