@@ -1,4 +1,4 @@
-## Hi..!!! I'm Angel
+# Hi..!!! I'm Angel
 
 <div style="display: inline_block"><br>
     <a href="https://github.com/aggranadoss" target="_blank"><img align="center" alt="Angel-Fondo"  src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/portfolio/fondo.gif">
@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning machine code in Z80 (CPCtelera)
+### 🌱 I’m currently learning machine code in Z80 (CPCtelera)
 
 ## ePortfolio
 
