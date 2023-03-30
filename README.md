@@ -12,10 +12,6 @@
     <a href="https://github.com/aggranadoss/ePortfolio.git" target="_blank"><img align="center" alt="Angel-Fondo"  src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/portfolio/fondo.gif">
 </div>
 
-## Statistics
-
-
-![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=aggranadoss&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aggranadoss&layout=compact&show_icons=true&theme=transparent)](https://github.com/aggranadoss/github-readme-stats)
 
 ## Programming languages of interest
 
