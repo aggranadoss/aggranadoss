@@ -1,7 +1,4 @@
-
-# 🌱 I’m currently learning machine code in Z80 (CPCtelera)
-
-## ePortfolio
+# Portfolio
 
 <div style="display: inline_block"><br>
     <a href="https://github.com/aggranadoss/ePortfolio.git" target="_blank"><img align="center" alt="Angel-C" height="120" width="850" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/portfolio/eportfolio.svg">
@@ -10,6 +7,8 @@
 <div style="display: inline_block"><br>
     <a href="https://github.com/aggranadoss/ePortfolio.git" target="_blank"><img align="center" alt="Angel-Fondo"  src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/portfolio/fondo.gif">
 </div>
+
+## 🌱 I’m currently learning machine code in Z80 (CPCtelera)
 
 
 ## Programming languages of interest
