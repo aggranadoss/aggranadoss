@@ -1,6 +1,5 @@
-# Hi..!!! I'm Angel
 
-### 🌱 I’m currently learning machine code in Z80 (CPCtelera)
+# 🌱 I’m currently learning machine code in Z80 (CPCtelera)
 
 ## ePortfolio
 
