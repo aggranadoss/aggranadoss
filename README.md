@@ -43,7 +43,7 @@
 
 <div style="display: inline_block"><br>
     <a href="https://www.linkedin.com/in/angel-gustavo-granados-sumalave-012039244/" target="_blank"><img align="center" alt="Angel-C" height="90" width="100" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/social/linkedin.svg">
-      <a href="mailto:aggranadoss484.gs@gmail.com" target="_blank"><img align="center" alt="Angel-CPP" height="90" width="100" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/social/gmail.svg">
+      <a href="mailto:aggranadoss484@gmail.com" target="_blank"><img align="center" alt="Angel-CPP" height="90" width="100" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/social/gmail.svg">
       <a href="https://t.me/granadosangel" target="_blank"><img align="center" alt="Angel-CPP" height="90" width="100" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/social/telegram.svg">
 </div>
 
