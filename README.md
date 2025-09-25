@@ -1,7 +1,7 @@
 # Portfolio
 
 <div style="display: inline_block"><br>
-    <a href="https://github.com/aggranadoss/ePortfolio.git" target="_blank"><img align="center" alt="Angel-C" height="20" width="15" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/portfolio/professional-portfolio.png">
+    <a href="https://github.com/aggranadoss/ePortfolio.git" target="_blank"><img align="center" alt="Angel-C" height="120" width="50" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/portfolio/portfolio.svg">
 </div>
 
 <div style="display: inline_block"><br>
@@ -18,9 +18,9 @@
   
   <img align="center" alt="Angel-CPP" height="50" width="60" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/cpp.svg">
 
-  <img align="center" alt="Angel-Python" height="50" width="60" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/python.png">
+  <img align="center" alt="Angel-Python" height="40" width="50" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/python.png">
 
-  <img align="center" alt="Angel-PySpark" height="50" width="60" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/apachespark.png">
+  <img align="center" alt="Angel-PySpark" height="60" width="70" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/apachespark.png">
 
 
   <img align="center" alt="Angel-Bash" height="50" width="60" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/bash.svg">
