@@ -18,18 +18,18 @@
   
   <img align="center" alt="Angel-CPP" height="50" width="60" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/cpp.svg">
 
-  <img align="center" alt="Angel-CPP" height="50" width="60" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/bash.svg">
+  <img align="center" alt="Angel-Python" height="50" width="60" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/python.svg">
+
+  <img align="center" alt="Angel-PySpark" height="50" width="60" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/apacheSpark.png">
+
+
+  <img align="center" alt="Angel-Bash" height="50" width="60" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/bash.svg">
     
   <img align="center" alt="Angel-Git" height="50" width="60" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/git.svg">
-  
-  <img align="center" alt="Angel-MariaDB" height="80" width="90" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/mariadb.svg">
-  
+   
   <img align="center" alt="Angel-MySQL" height="80" width="90" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/mysql.svg">
 
-
   <img align="center" alt="Angel-PostgreeSQL" height="50" width="60" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/postgresql.svg">
-
-  <img align="center" alt="Angel-Binary" height="50" width="60" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/binary.svg">
 
   <img align="center" alt="Angel-Opcode" height="50" width="60" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/opcode.png">
 
