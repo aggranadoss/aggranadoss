@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/aggranadoss/ePortfolio" target="_blank">
     <img 
-      src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/portfolio/portfolio.svg" 
+      src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/portfolio/professional-portfolio.gif" 
       alt="Portfolio Icon" 
       width="120" 
       height="150"
