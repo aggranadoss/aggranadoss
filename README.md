@@ -1,7 +1,7 @@
 # Portfolio
 
 <div style="display: inline_block"><br>
-    <a href="https://github.com/aggranadoss/ePortfolio.git" target="_blank"><img align="center" alt="Angel-C" height="120" width="850" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/portfolio/professional-portfolio.png">
+    <a href="https://github.com/aggranadoss/ePortfolio.git" target="_blank"><img align="center" alt="Angel-C" height="20" width="15" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/portfolio/professional-portfolio.png">
 </div>
 
 <div style="display: inline_block"><br>
