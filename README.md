@@ -11,9 +11,13 @@
   </a>
 </div>
 
-<div style="display: inline_block"><br>
-    <a href="https://github.com/aggranadoss/ePortfolio.git" target="_blank"><img align="center" alt="Angel-Fondo"  src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/portfolio/fondo.gif">
-</div>
+### Parte 1 – Frames 1 a 23 (4 fps)
+![Parte 1](https://github.com/aggranadoss/aggranadoss/blob/main/Image/portfolio/part1.webp)
+
+### Parte 2 – Frames 24 en adelante (55 fps)
+![Parte 2](https://github.com/aggranadoss/aggranadoss/blob/main/Image/portfolio/part2.webp)
+
+
 
 ## 🌱 I’m currently learning machine code in Z80 (CPCtelera)
 
