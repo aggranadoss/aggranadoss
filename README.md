@@ -11,11 +11,11 @@
   </a>
 </div>
 
-### Parte 1 – Frames 1 a 23 (4 fps)
-![Parte 1](https://github.com/aggranadoss/aggranadoss/blob/main/Image/portfolio/part1.webp)
+### Interests of my profession
 
-### Parte 2 – Frames 24 en adelante (55 fps)
-![Parte 2](https://github.com/aggranadoss/aggranadoss/blob/main/Image/portfolio/part2.webp)
+<div align="center">
+  <img src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/portfolio/part2.webp" alt="Parte 2" />
+</div>
 
 
 
