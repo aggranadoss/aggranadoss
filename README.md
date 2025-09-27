@@ -21,7 +21,7 @@
 
 
 
-## 🌱 I’m currently learning machine code in Z80 (CPCtelera)
+## 🌱 I’m currently learning machine code in Z80 (CPCtelera) and machine learning
 
 
 ## Programming languages of interest
