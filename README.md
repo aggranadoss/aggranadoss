@@ -48,6 +48,13 @@
 
   <img align="center" alt="Angel-ASM" height="50" width="60" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/asm.png">
 
+  <img align="center" alt="Angel-Z80" height="50" width="60" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/iconz80.png">
+
+  <img align="center" alt="Angel-GameBoy" height="50" width="60" src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/gameboy.png">
+
+
+
+
  [comment]: <> (<img align="center" alt="Angel-C" height="30" width="40" src="">) 
 
 </div>
