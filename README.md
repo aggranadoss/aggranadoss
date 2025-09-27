@@ -14,7 +14,9 @@
 ## Interests of my profession
 
 <div align="center">
-  <img src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/portfolio/part2.webp" alt="Parte 2" />
+  <a href="https://github.com/aggranadoss/ePortfolio" target="_blank">
+	<img src="https://github.com/aggranadoss/aggranadoss/blob/main/Image/portfolio/part2.webp" alt="Parte 2" />
+  </a>
 </div>
 
 
